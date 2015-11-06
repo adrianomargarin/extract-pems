@@ -5,6 +5,10 @@ __pycache__/
 # C extensions
 *.so
 
+# PEM extensions
+*.pem
+
+
 # Distribution / packaging
 .Python
 env/
